@@ -1,6 +1,12 @@
 <h1 align="center"><b>Hi, I'm Agustin Moreno </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 
+<br> 
+
+<img src="https://seomedialine.com/wp-content/uploads/2022/12/Web-Development.png.webp" witdh="100%" alt="aa">
+
+<br> 
+
 # 💫 About Me:
 I am a Full Stack web developer with 2-3 years of experience, specialized in Front-End. My passion for web programming began in 2022 and since then I have been continuously learning and improving my skills. I have completed several web projects for a variety of customers, including both individuals and companies.
 
