@@ -1,23 +1,32 @@
-# Hi, I'm Agustin Moreno👋
+<h1 align="center"><b>Hi, I'm Agustin Moreno </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
 
 # 💫 About Me:
 I am a Full Stack web developer with 2-3 years of experience, specialized in Front-End. My passion for web programming began in 2022 and since then I have been continuously learning and improving my skills. I have completed several web projects for a variety of customers, including both individuals and companies.
 
 I have completed numerous courses in various programming and web development languages, as well as soft skills such as communication and leadership. As self -taught, I am always looking for new learning opportunities and continuous improvement.
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/agustinmoreno.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/agustin-ezequiel-moreno) 
 
-# 💻 Tech Stack:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
+<br>
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,bootstrap,nodejs,express,php,mongodb,mysql,git,vscode,figma)](https://skillicons.dev)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AgustinMoreno75&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AgustinMoreno75&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinMoreno75&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AgustinMoreno75&icon=0&color=1)](https://visitcount.itsvg.in)
