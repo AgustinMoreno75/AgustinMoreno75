@@ -22,7 +22,6 @@ I have completed numerous courses in various programming and web development lan
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AgustinMoreno75&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AgustinMoreno75&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinMoreno75&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
