@@ -1,4 +1,4 @@
-## Hi👋, I'm Agustin Moreno
+# Hi👋, I'm Agustin Moreno
 
 # 💫 About Me:
 Soy un desarrollador web Full Stack con 2-3 años de experiencia, especializado en Front-End. Mi pasión por la programación web comenzó en 2022 y desde entonces he estado continuamente aprendiendo y mejorando mis habilidades. He completado varios proyectos web para una variedad de clientes, incluyendo tanto individuos como empresas.<br><br>He completado numerosos cursos en diversos lenguajes de programación y desarrollo web, así como en habilidades blandas como comunicación y liderazgo. Como autodidacta, siempre estoy buscando nuevas oportunidades de aprendizaje y mejora continua.
