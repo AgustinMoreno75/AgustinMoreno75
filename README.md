@@ -16,7 +16,7 @@ I have completed numerous courses in various programming and web development lan
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,bootstrap,nodejs,express,php,mongodb,mysql,git,vscode,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,php,mongodb,mysql,git,vscode,figma)](https://skillicons.dev)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -27,8 +27,8 @@ I have completed numerous courses in various programming and web development lan
 <br>
 
 <div align="center">
-  <h3><b>😄 Can Connect With Me On</b></h3>
-  </div>
+  <h2><b>Connect With Me On</b></h2>
+</div>
 <p align="center">
 <a href="https://www.linkedin.com/in/agustin-ezequiel-moreno/" target="_blank">
   <img align="center" alt="Linkedin de Agustin Moreno | Linkedin" width="44px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
