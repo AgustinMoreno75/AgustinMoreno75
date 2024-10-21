@@ -24,6 +24,25 @@ I have completed numerous courses in various programming and web development lan
 ![](https://github-readme-stats.vercel.app/api?username=AgustinMoreno75&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinMoreno75&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<br>
+
+<div align="center">
+  <h3><b>😄 Can Connect With Me On</b></h3>
+  </div>
+<p align="center">
+<a href="https://www.linkedin.com/in/agustin-ezequiel-moreno/" target="_blank">
+  <img align="center" alt="Linkedin de Agustin Moreno | Linkedin" width="44px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/agustinmoreno.dev/" target="_blank">
+  <img align="center" alt="Instagram de Agustin Moreno Dev | Instagram" width="44px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+</a> &nbsp;&nbsp;
+<a href="mailto:agustinezequielmoreno@gmail.com" >
+  <img align="center" alt="Email de Agustin Moreno | Gmail" width="44px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a> &nbsp;&nbsp;
+<p>
+  
+<br>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
