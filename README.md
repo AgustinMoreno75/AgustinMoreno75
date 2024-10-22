@@ -3,7 +3,7 @@
 
 <br> 
 
-<img src="https://seomedialine.com/wp-content/uploads/2022/12/Web-Development.png.webp" witdh="100%" alt="aa">
+<img src="https://seomedialine.com/wp-content/uploads/2022/12/Web-Development.png.webp" witdh="100%" alt="Web Develorment">
 
 <br> 
 
@@ -12,19 +12,25 @@ I am a Full Stack web developer with 2-3 years of experience, specialized in Fro
 
 I have completed numerous courses in various programming and web development languages, as well as soft skills such as communication and leadership. As self -taught, I am always looking for new learning opportunities and continuous improvement.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<a href="#">
+    <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0387.gif" border="0" width="100%" height="2px"/>
+  </a><br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/agustinmoreno.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/agustin-ezequiel-moreno) 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<a href="#">
+    <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0387.gif" border="0" width="100%" height="2px"/>
+  </a><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,php,mongodb,mysql,git,vscode,figma)](https://skillicons.dev)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<a href="#">
+    <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0387.gif" border="0" width="100%" height="2px"/>
+  </a><br><br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AgustinMoreno75&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)<br/>
@@ -32,9 +38,13 @@ I have completed numerous courses in various programming and web development lan
 
 <br>
 
+<a href="#">
+    <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0387.gif" border="0" width="100%" height="2px"/>
+  </a>
 <div align="center">
   <h2><b>Connect With Me On</b></h2>
-</div>
+</div><br>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/agustin-ezequiel-moreno/" target="_blank">
   <img align="center" alt="Linkedin de Agustin Moreno | Linkedin" width="44px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
