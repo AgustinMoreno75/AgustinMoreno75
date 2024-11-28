@@ -10,7 +10,7 @@
 # 💫 About Me:
 I am a Full Stack web developer with 2 years of experience, specialized in Front-End. My passion for web programming began in 2022 and since then I have been continuously learning and improving my skills. I have completed several web projects for a variety of customers, including both individuals and companies.
 
-I have completed numerous courses in various programming and web development languages, as well as soft skills such as communication and leadership. As self -taught, I am always looking for new learning opportunities and continuous improvement.
+I have completed numerous courses in various programming and web development languages, as well as soft skills such as communication and leadership. As self-taught, I am always looking for new learning opportunities and continuous improvement.
 
 <a href="#">
     <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0387.gif" border="0" width="100%" height="2px"/>
